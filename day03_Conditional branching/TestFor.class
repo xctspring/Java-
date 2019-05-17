@@ -1,0 +1,15 @@
+����   4 .
+  	   
+   
+   
+  
+  
+    ! " <init> ()V Code LineNumberTable main ([Ljava/lang/String;)V 
+StackMapTable 
+SourceFile TestFor.java 
+  # $ % 4------注意每一个分号后都有一个空�?--- & ' ( java/lang/StringBuilder i: ) * ) + , - TestFor java/lang/Object java/lang/System out Ljava/io/PrintStream; java/io/PrintStream println (Ljava/lang/String;)V append -(Ljava/lang/String;)Ljava/lang/StringBuilder; (I)Ljava/lang/StringBuilder; toString ()Ljava/lang/String;            
+           *??           	       ?    ><
+??????<
+?"??Y???	?
+???ޱ                    7  = 
+     ????$      
